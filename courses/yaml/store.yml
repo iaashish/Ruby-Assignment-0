@@ -1,0 +1,21 @@
+---
+1: !ruby/object:Course
+  state: Texas
+  capital: Austin
+  places: " The Alamo,Space Center Houston"
+  id: 1
+2: !ruby/object:Course
+  state: Indiana
+  capital: Indianapolis
+  places: Indianapolis Zoo,Indianapolis Motor Speedway
+  id: 2
+3: !ruby/object:Course
+  state: California
+  capital: Sacramento
+  places: Yosemite Falls,Sturtevant Falls
+  id: 3
+4: !ruby/object:Course
+  state: Arkansas
+  capital: Little Rock
+  places: Hot Springs National Park,William J Clinton Presidential Library and Museum
+  id: 4
